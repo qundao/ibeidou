@@ -1,0 +1,33 @@
+# -- Main Menu --
+
+[[main]]
+name = "文章"
+pageRef = "articles"
+weight = 10
+
+[[main]]
+name = "系列"
+pageRef = "series"
+weight = 105
+
+[[main]]
+name = "标签"
+pageRef = "tags"
+weight = 110
+
+[[main]]
+name = "作者"
+pageRef = "authors"
+weight = 120
+
+# -- Footer Menu --
+
+#  [[footer]]
+#    name = "标签"
+#    pageRef = "tags"
+#    weight = 10
+
+#  [[footer]]
+#    name = "作者"
+#    pageRef = "authors"
+#    weight = 20

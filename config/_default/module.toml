@@ -1,0 +1,4 @@
+[[imports]]
+disable = false
+# path = "github.com/jpanther/congo/v2"
+path = "github.com/nunocoracao/blowfish/v2"

@@ -1,0 +1,12 @@
+languageCode = "en"
+languageName = "English"
+weight = 10
+title = "Writings in iBeidou"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  description = "Born to no ease, yet let us seize the stars in tandem."
