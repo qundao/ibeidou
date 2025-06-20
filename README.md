@@ -12,5 +12,5 @@
 
 - 0001: 格式化链接
 - 0233: 修正 h4，改为引用
-- 0250: ef9f2cc6-ee9c-4217-86e8-73e1d9f950ed.gif 修改为 jpg
-- 0682: file:///C:\qq\目标文件\1907287128\Image\Y86%Z_H4KQ5S@PV75TE0VFD.jpg 删除不存在图片链接
+- 0250: `ef9f2cc6-ee9c-4217-86e8-73e1d9f950ed.gif` 修改为 jpg
+- 0682: `file:///C:\qq\目标文件\1907287128\Image\Y86%Z_H4KQ5S@PV75TE0VFD.jpg` 删除文档中不存在的图片链接
